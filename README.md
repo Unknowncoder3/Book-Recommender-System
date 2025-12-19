@@ -68,7 +68,7 @@ Book-Recommender-System/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/your-username/Book-Recommender-System.git
 cd Book-Recommender-System
 
