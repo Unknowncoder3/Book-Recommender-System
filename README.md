@@ -100,11 +100,15 @@ User IDs
 
 Data is preprocessed to remove noise and sparsity.
 
+---
+
 🧪 Example Output
 
 Input: Book Title
 
 Output: Top N similar book recommendations
+
+---
 
 🎯 Learning Outcomes
 
@@ -116,6 +120,8 @@ Worked with real-world datasets
 
 Applied machine learning concepts end-to-end
 
+---
+
 🚀 Future Improvements
 
 Add content-based filtering
@@ -126,6 +132,8 @@ Add user authentication
 
 Deploy the model
 
+---
+
 👤 Author
 
 Snehasish Das
@@ -134,6 +142,8 @@ Final Year CSBS Student | Data Science & AI Enthusiast
 GitHub: https://github.com/Unknowncoder3
 
 LinkedIn: https://www.linkedin.com/in/snehasish-das-7a9803219
+
+---
 
 ⭐ If you find this project useful, consider giving it a star!
 
